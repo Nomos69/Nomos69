@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nomos69
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning RUST
 - 💞️ I’m looking to collaborate on some web applications and IOT
-- 
+  
 
 
 <!---
