@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Nomos69
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning RUST
-- 💞️ I’m looking to collaborate on some web applications and IOT
-  
-
-
-<!---
-Nomos69/Nomos69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Clifford (@Nomos69)
+- 🎓 BS Information Technology student at Central Mindanao University
+- 💻 Building full-stack apps with Laravel, Next.js, and MySQL
+- 🔐 Currently deep in network security & pentesting (Suricata, Pi-hole, nmap, Aircrack-ng)
+- 🚀 Working on RGMO-IRMS — an inventory & resource management system (capstone project)
+- 🌱 Learning Rust
+- 💞️ Open to collaborating on web apps, IoT, and security-focused projects
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/rhimar-clifford-capunong-365704251/)
