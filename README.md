@@ -46,27 +46,29 @@ Learning **Rust** and working through network security and pentesting with **Sur
 
 ### 03 / Selected work
 
-#### 🎮 &nbsp; [Pixelled ↗](https://github.com/Nomos69/Pixelled)
+#### 📦 &nbsp; RGMO-IRMS
 
-A local multiplayer campus RPG prototype, bringing players together in a shared campus world.
+My capstone project for inventory and resource management.
 
-`Python` `FastAPI` `WebSockets` `HTML Canvas`
-
----
-
-#### 💧 &nbsp; [VCWD Water Leakage Monitoring ↗](https://github.com/Nomos69/VCWD-Water-Leakage-Monitoring)
-
-Smart water management for Valencia City with real-time sensor monitoring.
-
-`Dart` `IoT` `Sensor monitoring`
+`Capstone` `Inventory management` `Resource management`
 
 ---
 
-#### 🖥️ &nbsp; [Richard Capunong Portfolio ↗](https://github.com/Nomos69/RichardCapunong)
+#### ⚓ &nbsp; Pearl Harbor
 
-A work portfolio for Richard Capunong.
+<!-- Add the verified repository URL and project description when supplied. -->
 
-`TypeScript` `Web development`
+---
+
+#### ✅ &nbsp; Checkmark
+
+<!-- Add the verified repository URL and project description when supplied. -->
+
+---
+
+#### 📰 &nbsp; [CMU Press ↗](https://github.com/Nomos69/CMU-Press)
+
+`PHP`
 
 <br>
 
