@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none">
+  <title>Clifford — Nomos69</title>
+  <desc>Building for the web. Exploring what connects it. IT student at Central Mindanao University.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1200" y2="400" gradientUnits="userSpaceOnUse"><stop stop-color="#101820"/><stop offset="1" stop-color="#12101e"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#80f5cf"/><stop offset="1" stop-color="#b5a0ff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#c6cfde" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="398" rx="24" fill="url(#bg)" stroke="#303541"/>
+  <rect x="2" y="2" width="1196" height="396" rx="24" fill="url(#grid)"/>
+  <path d="M40 1H1160" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="DejaVu Sans,Arial,sans-serif">
+    <text x="56" y="60" fill="#80f5cf" font-family="DejaVu Sans Mono,monospace" font-size="16" letter-spacing="3">NOMOS69 / CLIFFORD</text>
+    <text x="52" y="142" fill="#f0f3fa" font-size="62" font-weight="bold">Curiosity into code.</text>
+    <text x="56" y="195" fill="#c3c8d5" font-size="22">Building for the web.</text>
+    <text x="56" y="228" fill="#c3c8d5" font-size="22">Exploring what connects it.</text>
+    <rect x="56" y="274" width="116" height="32" rx="16" fill="#18322e"/><text x="114" y="295" text-anchor="middle" fill="#80f5cf" font-size="12" font-weight="bold">WEB APPS</text>
+    <rect x="184" y="274" width="126" height="32" rx="16" fill="#27213c"/><text x="247" y="295" text-anchor="middle" fill="#c5b5ff" font-size="12" font-weight="bold">SECURITY</text>
+    <rect x="322" y="274" width="90" height="32" rx="16" fill="#1c2839"/><text x="367" y="295" text-anchor="middle" fill="#a7c7ff" font-size="12" font-weight="bold">IoT</text>
+    <text x="56" y="356" fill="#9ba6b9" font-size="15">BS Information Technology · Central Mindanao University</text>
+  </g>
+  <g transform="translate(790 102)">
+    <rect width="354" height="208" rx="14" fill="#0d1117" stroke="#394151"/>
+    <path d="M0 40H354" stroke="#303541"/>
+    <circle cx="22" cy="20" r="5" fill="#f28b93"/><circle cx="40" cy="20" r="5" fill="#e9c879"/><circle cx="58" cy="20" r="5" fill="#80f5cf"/>
+    <g font-family="DejaVu Sans Mono,monospace" font-size="16">
+      <text x="24" y="78" fill="#80f5cf">~ / nomos69</text>
+      <text x="24" y="115" fill="#e2e8f0">$ learn. build. repeat.</text>
+      <text x="24" y="151" fill="#aaa0ce">exploring: Rust</text>
+      <text x="24" y="185" fill="#80f5cf">❯</text><rect x="45" y="172" width="9" height="16" fill="#80f5cf"/>
+    </g>
+  </g>
+</svg>
